@@ -80,7 +80,7 @@ function handleClickLixi() {
   ];
 
   // file qr
-  const filePathQR = './assets/qr/475252593_664416312766730_1330413117087170955_n.jpg';
+  const filePathQR = './assets/qr/qr.jpg';
   // có qr hay không
   const showQR = true;
 
