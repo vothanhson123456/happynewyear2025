@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function handleClickLixi() {
   // Mảng chứa message cho chúc mừng
   const chucMungMessages = [
-    '🎉 Chúc mừng năm mới! Chúc bạn một năm tràn đầy niềm vui, sức khỏe dồi dào và thành công vượt bậc! 🎆',
+    '🎉 Chúc mừng năm mới! Chúc bạn một năm tràn đầy niềm vui, xinh gái hay đẹp trai hơn và thành công vượt bậc! 🎆',
     '🌸 Tết đến xuân về, chúc bạn vạn sự như ý, mọi khó khăn đều qua đi, chỉ còn lại niềm vui và hạnh phúc! 🌟',
     '💰 Chúc bạn năm mới an khang thịnh vượng, gia đình ấm no, và luôn gặp may mắn trên mọi nẻo đường! 🍀',
     '❤️ Năm mới, chúc bạn đón nhận thật nhiều yêu thương, hạnh phúc ngập tràn và sức khỏe mãi vững bền! 🌈',
@@ -72,11 +72,11 @@ function handleClickLixi() {
 
   // Mảng chứa message cho bao lì xì
   const lixiMessages = [
-    'Mình xin lì xì 💲',
-    'Xin 10k nhé 💵',
-    'Xin 20k nhé 💶',
-    'Xin 30k nhé 💷',
-    'Xin 50k nhé 💸',
+    'Mình sẽ lì xì trong các bao lì xì này 💲',
+    ' 10k nhé 💵',
+    ' 20k nhé 💶',
+    ' 30k nhé 💷',
+    ' 50k nhé 💸',
   ];
 
   // file qr
