@@ -82,7 +82,7 @@ function handleClickLixi() {
   // file qr
   const filePathQR = './assets/qr/qr.jpg';
   // có qr hay không
-  const showQR = false;
+  const showQR = true;
 
   let availableMessages = [...chucMungMessages];
   let availableLixiMessages = [...lixiMessages];
