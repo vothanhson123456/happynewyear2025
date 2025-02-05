@@ -72,11 +72,11 @@ function handleClickLixi() {
 
   // Mảng chứa message cho bao lì xì
   const lixiMessages = [
-    'Mình sẽ lì xì trong các bao lì xì này 💲',
+    'chúc bạn may mắn lần sau 💲',
     ' 1k nhé 💵',
-    ' 1k nhé 💶',
-    ' 1k nhé 💷',
-    ' 1k nhé 💸',
+    ' 10k nhé 💶',
+    ' 20k nhé 💷',
+    ' 5k nhé 💸',
   ];
 
   // file qr
